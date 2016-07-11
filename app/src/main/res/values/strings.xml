@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hola Mundo</string>
+    <string name="welcome">Welcome</string>
+    <string name="login_success">Login successful</string>
+    <string name="login_failed">Login failed</string>
+    <string name="logout">Logout</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="db_name">HolaMundo</string>
+</resources>
